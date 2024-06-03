@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Aji</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img style="width: 400;float: right;" src="https://www.google.com/imgres?q=ANIMATED%20code%20gif&imgurl=https%3A%2F%2Fi.makeagif.com%2Fmedia%2F4-05-2022%2FFvBVst.gif&imgrefurl=https%3A%2F%2Fmakeagif.com%2Fgif%2Fcode-fi-lofi-beats-to-coderelax-to-FvBVst&docid=xPMWv4mQzKKWfM&tbnid=u4ANM83FR9A9pM&vet=12ahUKEwi7iv_NisCGAxXiyzgGHVLsHPkQM3oECHQQAA..i&w=480&h=270&hcb=2&ved=2ahUKEwi7iv_NisCGAxXiyzgGHVLsHPkQM3oECHQQAA" alt="">
+<img style="width: 400;" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="">
 
 
 - 🔭 I’m currently working on **Youtube-clone**
