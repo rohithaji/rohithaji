@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Aji</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img style="width: 400;" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="">
+<img style="width: 400;float: right;" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="">
 
 
 - 🔭 I’m currently working on **Youtube-clone**
